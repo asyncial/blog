@@ -4,7 +4,8 @@ canonifyurls        = true
 contentdir          = "content"
 languageCode        = "en-US"
 layoutdir           = "layouts"
-publishdir          = "docs"
+publishdir          = "public"
+theme               = "cocoa"
 author              = "asyncial"
 title               = "asyncial"
 pygmentsuseclasses  = true
@@ -29,10 +30,10 @@ identifier             = "about"
 url                    = "/about/"
 
 [[menu.main]]
-name 							= "Links"
-weight 						= -100
-identifier					= "links"
-url							= "/links/"
+name 		       = "Links"
+weight 		       = -100
+identifier	       = "links"
+url		       = "/links/"
 
 #[[menu.main]]
 #name                   = "Code"

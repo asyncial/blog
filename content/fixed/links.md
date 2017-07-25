@@ -8,15 +8,15 @@ title = "links"
 There are a few sites, I want to recommend.
 
 ### Interesting Open-Source Projects
-* [Alpine Linux][https://alpinelinux.org/]
-* [Krita][https://krita.org/]
-* [Postmarket OS][https://ollieparanoid.github.io/]
-* [Redox OS][https://www.redox-os.org/]
-* [Solus Project][https://solus-project.com/]
+* [Alpine Linux](https://alpinelinux.org/)
+* [Krita](https://krita.org/)
+* [Postmarket OS](https://ollieparanoid.github.io/)
+* [Redox OS](https://www.redox-os.org/)
+* [Solus Project](https://solus-project.com/)
 
-### Interesting Web-Sites
-* [nixers][https://nixers.net/]
-* [installGentoo wiki][https://wiki.installgentoo.com/index.php/Main_Page]
-* [DistroWatch][https://distrowatch.com/]
-* [DistroChooser][https://distrochooser.de/]
-* [UnixStickers][https://www.unixstickers.com/]
+### Interesting Websites
+* [nixers](https://nixers.net/)
+* [installGentoo wiki](https://wiki.installgentoo.com/index.php/Main_Page)
+* [DistroWatch](https://distrowatch.com/)
+* [DistroChooser](https://distrochooser.de/)
+* [UnixStickers](https://www.unixstickers.com/)
