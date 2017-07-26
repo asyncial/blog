@@ -5,7 +5,7 @@ title = "about"
 
 +++
 
-This blog documents my adventures in technology. At the moment my primary interest lies is linux/unix systems, their usage, their customization, their history and philosophy. But I am interested in other fields too, such as hardware, robotics, A.I., gaming and more. I hope you will enjoy this blog.
+This blog documents my adventures in technology. At the moment my primary interest lies is linux/unix systems, their usage, their customization, their history and philosophy. But I am interested in other fields too, such as hardware, robotics, A.I., gaming and more. I hope you are going to enjoy this blog.
 
 ## whoami
 
@@ -13,7 +13,7 @@ I am a computer science student. I like (in no particular order) *NIX, minimalis
 
 ## My Devices
 
-I have several systems running. My specs are these:
+I have several systems running. Their specs are these:
 
 ### My Tower - RAKETE
 * **CPU**: AMD RYZEN R5 1600 @ 3.2 GHz
@@ -22,12 +22,13 @@ I have several systems running. My specs are these:
 * **Mainboard**: ASUS Prime B350M-A
 * **Drives**: 
     * 256G SSD: Windows 10 Pro
-    * 128G SSD: Gentoo (WIP)
+    * 128G SSD: Netrunner Rolling
     * 160G HDD: changing OSes
     * 500G HDD: Data
 * **Displays**: 
     * Primary: 1920x1080 22”
-    * Secondary: 768x1360 19”
+    * Left: 768x1360 19”
+    * Right: 1366x768 19"
 * **Keyboard**: Logitech G510
 * **Mouse**: Saitek R.A.T. 3
 
@@ -52,18 +53,19 @@ I have several systems running. My specs are these:
 
 ### Webbrowser
 
-* [Vivaldi][13] \- My main browser. Very customizable and integrates excellent tab management. Completely controllable with your keyboard, if you want to.
+* [Vivaldi][13] \- My main browser. Very customizable and integrates excellent tab management. Completely controllable with your keyboard, if you you're into that.
 * [Opera][14] \- My main browser on my phone, but the desktop browser integrates some pretty nice functionality. Sometimes very innovative features.
-* [Firefox][15] \- If some site isn’t compatible with vivaldi or someone else is using my laptop. Plus the newest Rust-Addition look pretty interesting.
+* [Firefox][15] \- If some site isn’t compatible with vivaldi or someone else is using my laptop. Plus the newest rust-additions look pretty interesting.
+* [Firefox Focus](https://www.mozilla.org/en/firefox/focus/) \- Minimalistic mobile browser. Is private mode only, blocks ads and tracker. 
 
 ### Terminal Environment
 
-* [urxvt][16] \- Pretty standard. Customizable through your .Xresources, which is nice.
+* [urxvt][16] \- Pretty standard. Customizable via your [.Xresources](https://asyncial.github.io/blog/organize-your-.xresources-like-a-pro/), which is nice.
 * [zsh][17] \- Not the most minimalistic, but the most comfortable for me.
 
 ### Communication
 
-* [Thunderbird][18] \- Again, pretty standard, but GPG handling with Enigmail is just so convinient.
+* [Thunderbird][18] \- Again, pretty standard, but GPG handling with Enigmail is just so convinient. Plus the calender is pretty nice, too.
 * [mcabber][19] \- Nice XMPP/Jabber Client for the terminal. Has support for OTR.
 * [qTox][20] \- The Tox client, that comes across the most stable and reliable.
 * [WhatsApp][21] \- You know it. But I actually think, it is a really good and secure messenger.
@@ -73,7 +75,7 @@ I have several systems running. My specs are these:
 
 ### Entertainment
 
-* [Foobar2000][25] \- The music-player I loved. The reason, I changed to Linux like a year later, because I didn’t found a replacement.
+* [Foobar2000][25] \- The music-player I loved. This is the reason, I changed to Linux like a year later, because I didn’t found a replacement.
 * [Deadbeef][26] \- Foobar2000 for Linux. Not as customizable as the original, but it is alright.
 * [mpv][27] \- Lightweight video player.
 * [Poweramp][28] \- Best android music app. Hands down.
@@ -81,11 +83,11 @@ I have several systems running. My specs are these:
 ### Work
 
 * [LibreOffice][29] \- Standard. Don’t use OpenOffice, it has almost no active maintainers anymore.
-* [IntelliJ IDEA][30] \- We're supposed to program Java in university. This is the best IDE I found.
+* [IntelliJ IDEA][30] \- We're supposed to program in Java for university. This is the best IDE I found.
 * [NeoVim][31] \- I am not settled on this one. I like it so far, in fact I am using it to write down these lines, but emacs or [Lime Text][32] are not out of the game.
-* [qpdfview][33] \- PDF readers for linux suck. This is the least sucky, I found so far.
+* [qpdfview][33] \- <s>PDF readers for linux suck.</s> PDF sucks. This reader eases the pain a little bit.
 * [GIMP][34] \- Edit pictures.
-* [Krita][https://krita.org/] \- A very nice application for digital painting, animating stuff and more.
+* [Krita](https://krita.org/) \- A very nice application for digital painting, animating stuff and more.
 
 ### Desktop
 
@@ -99,11 +101,10 @@ I have several systems running. My specs are these:
 ### Linux Distributions
 
 * [Alpine Linux][10] \- Impressive, extremely minimalistic Distribution. Perfect for one purpose projects. Also security-hardened. I might even use it as a desktop distro in the future.
-* [Arch Linux][40] \- Distro, that puts you in control. Not perfect, but for me, it is the best compromise between my idealism and my need for a reliable operating system.
-* [Solus][41] \- Highly optimized, very good assembled distro. It is suitable for newcomers and it makes some effort to give the users a good experience with steam and games. I think their developer blog is interesting and I really like Budgie, but if you want to customize your system beyond Budgie or MATE the package repositories are a bit lacking.
-* [OpenSUSE Leap][42] \- Very stable and polished distribution. It is the one, I usually recommend linux newcomers. It is a solid base, but gives you the possibility to explore the system, if you want to. It’s not dumbed down, like Ubuntu, but gives you the linux feel without needing you to be a technology enthusiast.
-* [Puppy][43] \- The most reliable live distro I found so far. I use, if I broke on of my operating systems.
-* [SliTaz][44] \- The best lightweight distro, which ships a graphical desktop. At least for me.
+* [Arch Linux][40] \- Distro, that puts you in control. Not perfect, but for me, it is the best compromise between my need to tinker and my need for a reliable operating system.
+* [Solus][41] \- Highly optimized, pretty good assembled distro. It is suitable for newcomers and it makes some effort to give the users a good experience with steam and gaming. I think their developer blog is interesting and I really like Budgie, but if you want to customize your system beyond Budgie or MATE the package repositories are a bit lacking.
+* [OpenSUSE Leap][42] \- Very stable and polished distribution. It is the one, I usually recommend linux newcomers. It is a solid base, but gives you the possibility to explore the system, if you want to. It’s not dumbed down like Ubuntu, but gives you the linux feel without needing you to be a technology enthusiast.
+* [Puppy][43] \- The most reliable live distro I found so far. I use it, if I broke one of my distros.
 
 [9]: https://github.com/Airblader/i3
 [10]: https://alpinelinux.org/
