@@ -70,7 +70,7 @@ So let’s examine this. ‘!’ initiates a comment. Comments are neat. They he
           *.color14:      c14
           *.color15:      c15
 
-You see, I have defined each color as a variable. This way one can use it in other files, which comes now. As you can see, I have created more files, for the applications I use, that are configured through .Xresources. Let’s look at the .xres/urxvt.
+You see, I have defined each color as a variable. This way one can use them in other contexts too. As you can see, I have created more files for the applications I use, that are configured through .Xresources. Let’s look at the .xres/urxvt as an example.
 
           $ cat ~/.xres/urxvt
 
