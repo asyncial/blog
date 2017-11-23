@@ -19,4 +19,4 @@ There are a few sites, I want to recommend.
 * [installGentoo wiki](https://wiki.installgentoo.com/index.php/Main_Page)
 * [DistroWatch](https://distrowatch.com/)
 * [DistroChooser](https://distrochooser.de/)
-* [UnixStickers](https://www.unixstickers.com/)
+* [UnixStickers](http://unixstickers.refr.cc/RZTQ63P)
