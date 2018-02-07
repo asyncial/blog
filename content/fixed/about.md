@@ -67,7 +67,6 @@ I have several systems running. Their specs are these:
 
 * [Thunderbird][18] \- Again, pretty standard, but GPG handling with Enigmail is just so convinient. Plus the calender is pretty nice, too.
 * [mcabber][19] \- Nice XMPP/Jabber Client for the terminal. Has support for OTR.
-* [qTox][20] \- The Tox client, that comes across the most stable and reliable.
 * [WhatsApp][21] \- You know it. But I actually think, it is a really good and secure messenger.
 * [Signal][22] \- If you want to use a securely encrypted messenger use this one. Not that Telegram crap.
 * [Silence][23] \- If you need encrypted SMS
@@ -117,7 +116,6 @@ I have several systems running. Their specs are these:
 [17]: http://www.zsh.org/
 [18]: https://www.mozilla.org/en/thunderbird/
 [19]: https://mcabber.com/
-[20]: https://qtox.github.io/
 [21]: https://www.whatsapp.com/
 [22]: https://whispersystems.org/
 [23]: https://silence.im/
