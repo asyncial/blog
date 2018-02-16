@@ -1,7 +1,7 @@
 +++
 title = "Backup your current Vivaldi session automatically"
 date = "2018-02-16T22:20:57+01:00"
-draft = true
+draft =false
 
 +++
 
