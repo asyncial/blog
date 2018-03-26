@@ -20,3 +20,4 @@ There are a few sites, I want to recommend.
 * [DistroWatch](https://distrowatch.com/)
 * [DistroChooser](https://distrochooser.de/)
 * [UnixStickers](http://unixstickers.refr.cc/RZTQ63P)
+* [TextEditors wiki](http://www.texteditors.org/cgi-bin/wiki.pl)
