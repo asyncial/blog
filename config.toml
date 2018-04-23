@@ -30,8 +30,14 @@ identifier             = "about"
 url                    = "/about/"
 
 [[menu.main]]
+name                   = "Learning"
+weight                 = -100
+identifier             = "learning"
+url                    = "/learning/"
+
+[[menu.main]]
 name 		       = "Links"
-weight 		       = -100
+weight 		       = -90
 identifier	       = "links"
 url		       = "/links/"
 

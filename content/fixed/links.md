@@ -19,5 +19,5 @@ There are a few sites, I want to recommend.
 * [installGentoo wiki](https://wiki.installgentoo.com/index.php/Main_Page)
 * [DistroWatch](https://distrowatch.com/)
 * [DistroChooser](https://distrochooser.de/)
-* [UnixStickers](http://unixstickers.refr.cc/RZTQ63P)
+* [UnixStickers](http://unixstickers.refr.cc/RZTQ63P) [referral link]
 * [TextEditors wiki](http://www.texteditors.org/cgi-bin/wiki.pl)
