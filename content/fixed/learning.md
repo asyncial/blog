@@ -32,3 +32,4 @@ I come across a lot of material to learn about computers, porgramming, software 
 - [The future of programming](https://www.youtube.com/watch?v=8pTEmbeENF4) by Bret Victor
 - [RT2WIN: How 50 lines of Python made me the luckiest guy on Twitter](https://www.youtube.com/watch?v=iAOOdYsK7MM&list=PLUpSuxVnldrb4_BpUAbZU-ju0EkyCu0m_&index=5&t=0s) by Hunter Scott
 - [Backdooring the Frontdoor](https://www.youtube.com/watch?v=MMB1CkZi6t4) by Jmaxxz
+- [A reimplementation of NetBSD using a micro kernel](https://www.youtube.com/watch?v=0pebP891V0c) by Andrew Tanenbaum
