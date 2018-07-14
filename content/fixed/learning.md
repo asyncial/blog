@@ -5,11 +5,11 @@ draft = false
 
 +++
 
-I come across a lot of material to learn about computers, porgramming, software etc. on the Internet. Sadly more than I could possibly read... However I think learning and teaching are integral parts of being a hacker in the classical way. On this page I want to share articles, books, videos, wikis and talks that helped me or were interesting in some way to me and are of no cost.
+I come across a lot of material to learn about computers, porgramming, software etc. on the Internet. Sadly more than I could possibly read... However I think learning and teaching are integral parts of being a hacker in the traditional way. On this page I want to share articles, books, videos, wikis and talks that helped me or were interesting in some way to me and are of no cost.
 
 ### Articles & Blogs
 - [How to become a Hacker](http://catb.org/esr/faqs/hacker-howto.html) by Eric S. Raymond
-- [Home, sweet home](http://blog.z3bra.org/2013/10/home-sweet-home.html<Paste>) by z3bra
+- [Home, sweet home](http://blog.z3bra.org/2013/10/home-sweet-home.html) by z3bra
 - [Best motherfucking website](https://bestmotherfucking.website/) by KeenRivals
 
 ### Books
