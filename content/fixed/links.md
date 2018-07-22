@@ -9,6 +9,7 @@ There are a few sites, I want to recommend.
 
 ### Interesting Open-Source Projects
 * [Alpine Linux](https://alpinelinux.org/)
+* [Adélie Linux](http://adelielinux.org/)
 * [Krita](https://krita.org/)
 * [Postmarket OS](https://ollieparanoid.github.io/)
 * [Redox OS](https://www.redox-os.org/)

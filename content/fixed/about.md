@@ -20,12 +20,12 @@ I have several systems running. Their specs are these:
 * **GPU**: XFX Radeon RX 480 RS
 * **RAM**: 8G DDR4-2400
 * **Mainboard**: ASUS Prime B350M-A
-* **Drives**: 
+* **Drives**:
     * 256G SSD: Windows 10 Pro
     * 128G SSD: Netrunner Rolling
     * 160G HDD: changing OSes
     * 500G HDD: Data
-* **Displays**: 
+* **Displays**:
     * Primary: 1920x1080 22”
     * Left: 768x1360 19”
     * Right: 1366x768 19"
@@ -51,26 +51,26 @@ I have several systems running. Their specs are these:
 
 ## Software I use and recommend
 
-### Webbrowser
+### Web Browser
 
-* [Vivaldi][13] \- My main browser. Very customizable and integrates excellent tab management. Completely controllable with your keyboard, if you you're into that.
-* [Opera][14] \- My main browser on my phone, but the desktop browser integrates some pretty nice functionality. Sometimes very innovative features.
+* [Vivaldi][13] \- My main browser. Very customizable and integrates excellent tab management. Completely controllable with your keyboard, if you're into that.
 * [Firefox][15] \- If some site isn’t compatible with vivaldi or someone else is using my laptop. Plus the newest rust-additions look pretty interesting.
-* [Firefox Focus](https://www.mozilla.org/en/firefox/focus/) \- Minimalistic mobile browser. Is private mode only, blocks ads and tracker. 
+* [Firefox Focus](https://www.mozilla.org/en/firefox/focus/) \- Minimalistic mobile browser. Is private mode only, blocks ads and tracker.
 
 ### Terminal Environment
 
 * [urxvt][16] \- Pretty standard. Customizable via your [.Xresources](https://asyncial.github.io/blog/organize-your-.xresources-like-a-pro/), which is nice.
 * [zsh][17] \- Not the most minimalistic, but the most comfortable for me.
+* [dash](http://gondor.apana.org.au/~herbert/dash/) \- This is the shell I use for scripting. It is pretty much a POSIX-shell with the addition of the ```local``` keyword.
 
 ### Communication
 
-* [Thunderbird][18] \- Again, pretty standard, but GPG handling with Enigmail is just so convinient. Plus the calender is pretty nice, too.
+* [Thunderbird][18] \- Again, pretty standard, but GPG handling with Enigmail is just so convinient. Plus the calendar is pretty nice, too.
 * [mcabber][19] \- Nice XMPP/Jabber Client for the terminal. Has support for OTR.
 * [WhatsApp][21] \- You know it. But I actually think, it is a really good and secure messenger.
 * [Signal][22] \- If you want to use a securely encrypted messenger use this one. Not that Telegram crap.
-* [Silence][23] \- If you need encrypted SMS
-* [K9-Mail][24] \- The android-mail-client that is opensource
+* [Silence][23] \- If you need encrypted SMS.
+* [K9-Mail][24] \- The android-mail-client that is opensource.
 
 ### Entertainment
 
@@ -83,14 +83,13 @@ I have several systems running. Their specs are these:
 
 * [LibreOffice][29] \- Standard. Don’t use OpenOffice, it has almost no active maintainers anymore.
 * [IntelliJ IDEA][30] \- We're supposed to program in Java for university. This is the best IDE I found.
-* [NeoVim][31] \- I am not settled on this one. I like it so far, in fact I am using it to write down these lines, but emacs or [Lime Text][32] are not out of the game.
-* [qpdfview][33] \- <s>PDF readers for linux suck.</s> PDF sucks. This reader eases the pain a little bit.
+* [NeoVim][31] \- I am not settled on this one. I like it so far, in fact I am using it to write down these lines, but emacs, [vis](https://github.com/martanne/vis), [kakoune](http://kakoune.org/) or even [acme](http://acme.cat-v.org/) are not out of the game.
 * [GIMP][34] \- Edit pictures.
 * [Krita](https://krita.org/) \- A very nice application for digital painting, animating stuff and more.
 
 ### Desktop
 
-* [i3-gaps][9] \- My window manager. Didn’t find a better one yet. Really nice, when configured properly.
+* [i3-gaps][9] \- My window manager. Didn’t find a better one yet. Pretty nice, when configured properly, although I'm not as happy with it anymore.
 * [polybar][35] \- A nice bar for your DIY Desktop Environment.
 * [rofi][36] \- Rice-able application launcher.
 * [dunst][37] \- Your new, lightweight notification daemon.
@@ -99,7 +98,7 @@ I have several systems running. Their specs are these:
 
 ### Linux Distributions
 
-* [Alpine Linux][10] \- Impressive, extremely minimalistic Distribution. Perfect for one purpose projects. Also security-hardened. I might even use it as a desktop distro in the future.
+* [Alpine Linux][10] \- Impressive, extremely minimalistic Distribution. Perfect for one purpose projects. Security-hardened. I might even use it as a desktop distro in the future.
 * [Arch Linux][40] \- Distro, that puts you in control. Not perfect, but for me, it is the best compromise between my need to tinker and my need for a reliable operating system.
 * [Solus][41] \- Highly optimized, pretty good assembled distro. It is suitable for newcomers and it makes some effort to give the users a good experience with steam and gaming. I think their developer blog is interesting and I really like Budgie, but if you want to customize your system beyond Budgie or MATE the package repositories are a bit lacking.
 * [OpenSUSE Leap][42] \- Very stable and polished distribution. It is the one, I usually recommend linux newcomers. It is a solid base, but gives you the possibility to explore the system, if you want to. It’s not dumbed down like Ubuntu, but gives you the linux feel without needing you to be a technology enthusiast.
@@ -110,7 +109,6 @@ I have several systems running. Their specs are these:
 [11]: https://reddit.com/r/AyyMD
 [12]: https://github.com/asyncial/dotfiles-maschine
 [13]: https://vivaldi.com/
-[14]: https://www.opera.com/
 [15]: https://www.mozilla.org/en/firefox/new/
 [16]: http://software.schmorp.de/pkg/rxvt-unicode.html
 [17]: http://www.zsh.org/
@@ -127,8 +125,6 @@ I have several systems running. Their specs are these:
 [29]: https://www.libreoffice.org/
 [30]: https://www.jetbrains.com/idea/
 [31]: https://neovim.io/
-[32]: http://limetext.org/
-[33]: https://launchpad.net/qpdfview
 [34]: https://www.gimp.org/
 [35]: https://github.com/jaagr/polybar
 [36]: https://davedavenport.github.io/rofi/
@@ -140,5 +136,3 @@ I have several systems running. Their specs are these:
 [42]: https://www.opensuse.org/
 [43]: http://puppylinux.com/
 [44]: http://slitaz.org/en/
-
-  

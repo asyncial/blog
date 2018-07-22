@@ -5,7 +5,7 @@ title = "organize your .xresources like a pro"
 
 +++
 
-If you are anything like me, you like to customize your terminal colorscheme. And if you are even more like me, you are using urxvt and need to edit your ~/.Xresources to changes your terminals colors. So I assume your .Xresources are mess an you want to know, how to get them clean and easy to read and customize. If you already have a working system, there is no need to change it. But maybe you can use some of my ideas. So what do my .Xresources look like?
+If you are anything like me, you like to customize your terminal colorscheme. And if you are even more like me, you are using urxvt and need to edit your ~/.Xresources to changes your terminals colors. So I assume your .Xresources are mess and you want to know, how to get them clean and easy to read and customize. If you already have a working system, there is no need to change it. But maybe you can use some of my ideas. So what do my .Xresources look like?
 
           $ cat ~/.Xresources
 

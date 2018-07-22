@@ -5,14 +5,14 @@ title = "how to debrand your xperia z3"
 
 +++
 
-When I got myself a new Z3 the other day, it had a T-Mobile software branding. I think, you know, what that means: stupid bloatware and less chance to get updates. So I decided to get rid of it. That’s how you do it:
+When I got myself a new Z3 the other day, it had a T-Mobile software branding. I think, you know what that means: stupid bloatware and less chance to get updates. So I decided to get rid of it. That’s how you do it:
 
 1.  Do a back up of your data!
 2.  Get and install the [Sony PC Companion](http://support.sonymobile.com/global-en/tools/pc-companion/), if you don’t already did.
-3.  Get and install [Flashtool](http://www.flashtool.net/downloads.php). I recommend to use the torrent link, because the download server was quite slow, when I tried it.
+3.  Get and install [Flashtool](http://www.flashtool.net/downloads.php). I recommend using the torrent link, because the download server was quite slow, when I tried it.
 4.  Get your firmware
     1.  Start Flashtool and click the button on the right of the toolbar, labeled XF. A new window should open.
-    2.  In the list on the left, look out for the Xperia Z3/Z3v and choose your model. In the middle, you should know see a new list.
+    2.  In the list on the left, look out for the Xperia Z3/Z3v and choose your model. In the middle, you should now see a new list.
     3.  Choose the correct firmware. It’s the one, where the “market” coloumn is the country, you live in and the “operator” looks something like this: “Customized XX”
     4.  Now, there are different versions listed on the right coloumn of the window. For example: “23.4.A.1.264 / R7C”. The top one is the newest one. Click on it.
     5.  In the new window, just click download. This could take a few minutes.
@@ -29,6 +29,6 @@ When I got myself a new Z3 the other day, it had a T-Mobile software branding. I
         2.  Shut your device down.
         3.  While pressing volume down, reconnect your device.
     6.  Flashtool starts flashing. This could take some time.
-6.  Reboot your phone and have fun with an debranded Z3!
+6.  Reboot your phone and have fun with a debranded Z3!
 
-I think this could also work with other Xperia phones, for example the Z3 compact, but I didn’t test it. It could also be possible, to flash another countries firmware to your model, but I didn’t test it neither.
+I think this could also work with other Xperia phones, for example the Z3 compact, but I didn’t test it. It could also be possible, to flash another country's firmware to your model, but I didn’t test it neither.

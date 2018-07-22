@@ -5,7 +5,7 @@ draft = false
 
 +++
 
-This blog post documents really quick, how you can get [URxvt]([http://software.schmorp.de/pkg/rxvt-unicode.html) to be ready in less time. I measured the time, my computer needed, to start instances of URxvt to a usable shell and close it again for 25 times. I tried that with [bash](https://tiswww.case.edu/php/chet/bash/bashtop.html), [dash](https://www.in-ulm.de/~mascheck/various/ash/⎈) and [zsh](http://www.zsh.org/) with and without [oh-my-zsh](http://ohmyz.sh/). It measured it with [time(1)](http://man7.org/linux/man-pages/man1/time.1.html). My test script looks like this:
+This blog post documents really quick, how you can get [URxvt](http://software.schmorp.de/pkg/rxvt-unicode.html) to be ready in less time. I measured the time, my computer needed, to start instances of URxvt to a usable shell and close it again for 25 times. I tried that with [bash](https://tiswww.case.edu/php/chet/bash/bashtop.html), [dash](https://www.in-ulm.de/~mascheck/various/ash/⎈) and [zsh](http://www.zsh.org/) with and without [oh-my-zsh](http://ohmyz.sh/). It measured it with [time(1)](http://man7.org/linux/man-pages/man1/time.1.html). My test script looks like this:
 ```
 #! /bin/sh
 
@@ -14,18 +14,18 @@ for i in 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
 done
 ```
 Of course, 'dash' needs to be replaced with the shell, you want to use. It's not and a beautiful script, and I think, I will redo it sometime, making it more flexible. 
-The configs for all shells just consisted of ```exit```, so they close immedietly after they're ready. The exception to this is my [oh-my-zsh-config](https://github.com/asyncial/dotfiles-maschine/blob/master/zsh/.zshrc), which is the one, I use at the moment, but with an ```exit``` appended in the last line.
-The machine I used is MASCHINE, my notebook, look at it's specs in my [about](https://asyncial.github.io/about/) page.
+The configs for all shells just consisted of ```exit```, so they close immedietly after they're ready, with the exception of my [oh-my-zsh-config](https://github.com/asyncial/dotfiles-maschine/blob/master/zsh/.zshrc), which is the one, I use at the moment, but with an ```exit``` appended in the last line.
+I used MASCHINE, my notebook, as platform for the tests. Look at its specs in my [about](https://asyncial.github.io/about/) page.
 
 ### What to do
 
-So, how do we get the start up faster? Throw out stuff we don't need. For example the Perl support. I don't use any extensions or scripts, so I can safely just disable it. The great thing is, URxvt let's you do this, without having you recompile it by hand. You can just append the following setting to your ```~/.Xresources```:
+So, how do we get the start up faster? Throw out stuff we don't need. For example the Perl support. I don't use any extensions or scripts, so I can safely disable it. The great thing is, URxvt lets you do this, without having you recompile it by hand. You can just append the following setting to your ```~/.Xresources```:
 ```
 ! DISABLE PERL FOR BETTER PERFORMANCE AND SECURITY !
 URxvt.perl-ext:
 URxvt.perl-ext-common:
 ```
-This disables the startup of the built-in perl interpreter. But can we get it even faster? Of course. URxvt comes with an optional client-server model. So, if we run the ```urxvtd``` daemon at boot time, we can start it's client ```urxvtc``` with insane time improvements. Just add this to your systems autostart file:
+This disables the startup of the built-in perl interpreter. But can we get it even faster? Of course. URxvt comes with an optional client-server model. So, if we run the ```urxvtd``` daemon at boot time, we can start its client ```urxvtc``` with insane time improvements. Just add this to your systems autostart file:
 ```
 urxvtd -q -o -f &
 ```
