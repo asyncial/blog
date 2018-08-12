@@ -12,6 +12,7 @@ I come across a lot of material to learn about computers, porgramming, software 
 - [Home, sweet home](http://blog.z3bra.org/2013/10/home-sweet-home.html) by z3bra
 - [Best motherfucking website](https://bestmotherfucking.website/) by KeenRivals
 - [Linux Kernel Style Guide](https://www.kernel.org/doc/html/v4.10/process/coding-style.html) by Linus Torvalds
+- [Reflections on Trusting Trust](https://www.win.tue.nl/~aeb/linux/hh/thompson/trust.html) by Ken Thompson
 
 ### Books
 - [Invent your own computer games with Python](http://inventwithpython.com/invent4thed/) by  Al Sweigart
