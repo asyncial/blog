@@ -5,13 +5,14 @@ draft = false
 
 +++
 
-I come across a lot of material to learn about computers, porgramming, software etc. on the Internet. Sadly more than I could possibly read... However, I think learning and teaching are integral parts of being a hacker in the traditional way. On this page I want to share articles, books, videos, wikis and talks that helped me or were interesting to me in some way and are of no cost.
+I come across a lot of material to learn about computers, porgramming, software etc. on the Internet. Sadly more than I could possibly read... However, I think learning and teaching are integral parts of being a hacker in the traditional way. On this page I want to share articles, books, videos, wikis and talks that helped me or were interesting to me in some way, and are of no cost.
 
 ### Articles & Blogs
 - [Home, sweet home](http://blog.z3bra.org/2013/10/home-sweet-home.html) by z3bra
 - [Best motherfucking website](https://bestmotherfucking.website/) by KeenRivals
 - [Linux Kernel Style Guide](https://www.kernel.org/doc/html/v4.10/process/coding-style.html) by Linus Torvalds
 - [Reflections on Trusting Trust](https://www.win.tue.nl/~aeb/linux/hh/thompson/trust.html) by Ken Thompson
+- [Software Disenchantment](http://tonsky.me/blog/disenchantment/) by Nikita Prokopov
 
 ### Books
 - [Invent your own computer games with Python](http://inventwithpython.com/invent4thed/) by  Al Sweigart
@@ -22,15 +23,15 @@ I come across a lot of material to learn about computers, porgramming, software 
 - [The GameBoy, a hardware autopsy](https://www.youtube.com/watch?v=RZUDEaLa5Nw) by JackTech
 - [Sega Saturn CD - Cracked after 20 years](https://www.youtube.com/watch?v=jOyfZex7B3E&index=7&list=PLUpSuxVnldrb4_BpUAbZU-ju0EkyCu0m_) by debuglife
 
-### Wikis & Archives
-- [ArchWiki](https://wiki.archlinux.org/)
-- [Gentoo wiki](https://wiki.gentoo.org/wiki/Main_Page)
-- [InstallGentoo Wiki](https://wiki.installgentoo.com/index.php/Main_Page)
-- [cat-v document archive](http://doc.cat-v.org/)
-
 ### Talks
 - [Systems software research is irrelevant](http://doc.cat-v.org/bell_labs/utah2000/utah2000.pdf) by Rob Pike (PDF)
 - [The future of programming](https://www.youtube.com/watch?v=8pTEmbeENF4) by Bret Victor
 - [RT2WIN: How 50 lines of Python made me the luckiest guy on Twitter](https://www.youtube.com/watch?v=iAOOdYsK7MM&list=PLUpSuxVnldrb4_BpUAbZU-ju0EkyCu0m_&index=5&t=0s) by Hunter Scott
 - [Backdooring the Frontdoor](https://www.youtube.com/watch?v=MMB1CkZi6t4) by Jmaxxz
 - [A reimplementation of NetBSD using a micro kernel](https://www.youtube.com/watch?v=0pebP891V0c) by Andrew Tanenbaum
+
+### Wikis & Archives
+- [ArchWiki](https://wiki.archlinux.org/)
+- [Gentoo wiki](https://wiki.gentoo.org/wiki/Main_Page)
+- [InstallGentoo Wiki](https://wiki.installgentoo.com/index.php/Main_Page)
+- [cat-v document archive](http://doc.cat-v.org/)
