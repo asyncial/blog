@@ -1,7 +1,7 @@
 +++
 date = "2017-02-01T18:52:47+02:00"
 draft = false
-title = "organize your .xresources like a pro"
+title = "organize your .xresources"
 
 +++
 
