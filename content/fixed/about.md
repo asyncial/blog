@@ -5,7 +5,7 @@ title = "about"
 
 +++
 
-This blog documents my adventures in technology. At the moment my primary interest lies is linux/unix systems, their usage, their customization, their history and philosophy. But I am interested in other fields too, such as hardware, robotics, A.I., gaming and more. I hope you are going to enjoy this blog.
+This blog documents my adventures in technology. At the moment my primary interest lies is linux/unix systems, their usage, their customization, their history and philosophy. But I am interested in other fields too, such as hardware, OS is general, gaming and more. I hope you are going to enjoy this blog.
 
 ## whoami
 
