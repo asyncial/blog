@@ -13,7 +13,6 @@ There are a few sites, I want to recommend.
 * [Krita](https://krita.org/)
 * [Postmarket OS](https://ollieparanoid.github.io/)
 * [Redox OS](https://www.redox-os.org/)
-* [Solus Project](https://solus-project.com/)
 
 ### Interesting Websites
 * [nixers](https://nixers.net/)
