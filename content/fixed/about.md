@@ -9,7 +9,7 @@ This blog documents my adventures in technology. At the moment my primary intere
 
 ## whoami
 
-I am a computer science student. I like (in no particular order) *NIX, minimalism, the GPL, AMD, Sony, Deus Ex, Risen, XCOM and Civilization, [i3-gaps][9], the Raspberry Pi, [Alpine Linux][10] and more, what I don’t recall at the moment.
+I am a computer science student. I like (in no particular order) *NIX, minimalism, the GPL, AMD, Sony, Deus Ex, Risen, XCOM and Civilization, [i3-gaps][9], the Raspberry Pi and more, what I don’t recall at the moment.
 
 ## My Devices
 
@@ -93,14 +93,12 @@ I have several systems running. Their specs are these:
 * [polybar][35] \- A nice bar for your DIY Desktop Environment.
 * [rofi][36] \- Rice-able application launcher.
 * [dunst][37] \- Your new, lightweight notification daemon.
-* [Budgie][38] \- A nice, no bullshit Desktop Environment based on the GNOME applications. It is really nice and I like the communication of the developers.
 * [KDE][39] \- Fully featured, highly customizable Desktop Environment.
 
 ### Linux Distributions
 
 * [Alpine Linux][10] \- Impressive, extremely minimalistic Distribution. Perfect for one purpose projects. Security-hardened. I might even use it as a desktop distro in the future.
 * [Arch Linux][40] \- Distro, that puts you in control. Not perfect, but for me, it is the best compromise between my need to tinker and my need for a reliable operating system.
-* [Solus][41] \- Highly optimized, pretty good assembled distro. It is suitable for newcomers and it makes some effort to give the users a good experience with steam and gaming. I think their developer blog is interesting and I really like Budgie, but if you want to customize your system beyond Budgie or MATE the package repositories are a bit lacking.
 * [OpenSUSE Leap][42] \- Very stable and polished distribution. It is the one, I usually recommend linux newcomers. It is a solid base, but gives you the possibility to explore the system, if you want to. It’s not dumbed down like Ubuntu, but gives you the linux feel without needing you to be a technology enthusiast.
 * [Puppy][43] \- The most reliable live distro I found so far. I use it, if I broke one of my distros.
 
@@ -129,10 +127,8 @@ I have several systems running. Their specs are these:
 [35]: https://github.com/jaagr/polybar
 [36]: https://davedavenport.github.io/rofi/
 [37]: http://knopwob.org/dunst/index.html
-[38]: https://solus-project.com/budgie/
 [39]: https://www.kde.org/
 [40]: https://www.archlinux.org/
-[41]: https://solus-project.com/
 [42]: https://www.opensuse.org/
 [43]: http://puppylinux.com/
 [44]: http://slitaz.org/en/
