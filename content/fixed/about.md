@@ -5,11 +5,11 @@ title = "about"
 
 +++
 
-This blog documents my adventures in technology. At the moment my primary interest lies is linux/unix systems, their usage, their customization, their history and philosophy. But I am interested in other fields too, such as hardware, OS is general, gaming and more. I hope you are going to enjoy this blog.
+This blog documents my adventures in technology. At the moment my primary interest lies is linux/unix systems, their usage, their customization, their history and philosophy. But I am interested in other fields too, such as hardware, OS in general, gaming and more. I hope you are going to enjoy this blog.
 
 ## whoami
 
-I am a computer science student. I like (in no particular order) *NIX, minimalism, the GPL, AMD, Sony, Deus Ex, Risen, XCOM and Civilization, [i3-gaps][9], the Raspberry Pi and more, what I don’t recall at the moment.
+I am a computer science student. I like (in no particular order) *NIX, minimalist software, the GPL, AMD, Sony, Deus Ex, Risen, XCOM and Civilization, [i3-gaps][9], the Raspberry Pi and more, which I don’t recall at the moment.
 
 ## My Devices
 
@@ -22,12 +22,11 @@ I have several systems running. Their specs are these:
 * **Mainboard**: ASUS Prime B350M-A
 * **Drives**:
     * 256G SSD: Windows 10 Pro
-    * 128G SSD: Netrunner Rolling
+    * 128G SSD: OpenSUSE Tumbleweed Plasma
     * 160G HDD: changing OSes
     * 500G HDD: Data
 * **Displays**:
     * Primary: 1920x1080 22”
-    * Left: 768x1360 19”
     * Right: 1366x768 19"
 * **Keyboard**: Logitech G510
 * **Mouse**: Saitek R.A.T. 3
@@ -41,7 +40,7 @@ I have several systems running. Their specs are these:
 
 ### Raspberry Pi II Sambaserver and Downloadbox - GENERATOR
 * **OS**: Alpine Linux
-* **HDD**: 1T Data
+* **HDD**: 3T Data
 
 ### Raspberry Pi III for Retrogaming - KONSOLE
 * **OS**: RetroPie
@@ -70,7 +69,7 @@ I have several systems running. Their specs are these:
 * [WhatsApp][21] \- You know it. But I actually think, it is a really good and secure messenger.
 * [Signal][22] \- If you want to use a securely encrypted messenger use this one. Not that Telegram crap.
 * [Silence][23] \- If you need encrypted SMS.
-* [K9-Mail][24] \- The android-mail-client that is opensource.
+* [K9-Mail][24] \- E-Mail on Android.
 
 ### Entertainment
 
@@ -83,7 +82,7 @@ I have several systems running. Their specs are these:
 
 * [LibreOffice][29] \- Standard. Don’t use OpenOffice, it has almost no active maintainers anymore.
 * [IntelliJ IDEA][30] \- We're supposed to program in Java for university. This is the best IDE I found.
-* [NeoVim][31] \- I am not settled on this one. I like it so far, in fact I am using it to write down these lines, but emacs, [vis](https://github.com/martanne/vis), [kakoune](http://kakoune.org/) or even [acme](http://acme.cat-v.org/) are not out of the game.
+* [Kakoune](https://kakoune.org) \- I recently switched to this one from NeoVim and am pretty impressed for now, but emacs, [vis](https://github.com/martanne/vis), or even [acme](http://acme.cat-v.org/) are not out of the game.
 * [GIMP][34] \- Edit pictures.
 * [Krita](https://krita.org/) \- A very nice application for digital painting, animating stuff and more.
 
@@ -94,6 +93,7 @@ I have several systems running. Their specs are these:
 * [rofi][36] \- Rice-able application launcher.
 * [dunst][37] \- Your new, lightweight notification daemon.
 * [KDE][39] \- Fully featured, highly customizable Desktop Environment.
+* [Hayai Launcher](https://github.com/edgarvperes/HayaiLauncher) \- A very nice and minimalistic Launcher for Android.
 
 ### Linux Distributions
 
@@ -122,7 +122,6 @@ I have several systems running. Their specs are these:
 [28]: http://powerampapp.com/
 [29]: https://www.libreoffice.org/
 [30]: https://www.jetbrains.com/idea/
-[31]: https://neovim.io/
 [34]: https://www.gimp.org/
 [35]: https://github.com/jaagr/polybar
 [36]: https://davedavenport.github.io/rofi/
@@ -131,4 +130,3 @@ I have several systems running. Their specs are these:
 [40]: https://www.archlinux.org/
 [42]: https://www.opensuse.org/
 [43]: http://puppylinux.com/
-[44]: http://slitaz.org/en/
