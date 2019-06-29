@@ -11,7 +11,7 @@ __The solution__: Use a Raspberry Pi to share your HDD in your local network via
 
 __Let's get started.__
 
-### What do I need?
+## What do I need?
 
 - [Raspberry Pi 1, 2 or 3](https://www.raspberrypi.org)
 - external HDD with USB and power adaptor OR
@@ -22,9 +22,9 @@ __Let's get started.__
 
 Note that I will explain the initial configuration of the SD card and the HDD assuming a Linux computer. It is however not particularly difficult to do this with Windows. It just works differently.
 
-### What do I have to do?
+## What do I have to do?
 
-#### Setup your SD card
+### Setup your SD card
 
 First you have to download the [latest image](https://alpinelinux.org/downloads/) of Alpine Linux. If you plan to use a Raspberry Pi 1 or 2, use the armhf image or the aarch64 one, if you plan to use a Raspberry Pi 3. 
 
@@ -36,7 +36,7 @@ After you've done that, you can extract your downloaded image on your freshly fo
 
 You obviously have to adjust the paths to your configuration.
 
-#### Setup your HDD
+### Setup your HDD
 
 If your hard drive is formatted with NTFS, you don't have to change any thing. If not, use this command to do it. Beware, that all the data will be lost during the formatting.
 
@@ -44,7 +44,7 @@ If your hard drive is formatted with NTFS, you don't have to change any thing. I
 
 Make sure you have ntfs-3g installed.
 
-#### Setup Alpine
+### Setup Alpine
 
 Put the SD card in your Raspberry Pi and boot it up. Log in to the system as root and leave the password empty. Now you type ```setup-alpine``` and hit enter to start the installation process.
 
@@ -62,13 +62,45 @@ You've installed Alpine in diskless mode, which means, you have to save all your
 
 	lbu commit
 
-#### Setup Samba
+### Setup Samba
 
-#### Connect to your Samba share
+Next you need to setup your SMB server. So install it with
+	
+	apk add samba
+	
+> connect your harddrive
+> create smb.conf
+> create a new user
+> add user to samba
+> configure samba services
+> add needed files to lbu
 
-###<a name="technologies"></a> Technology choices
+### Connect to your Samba share
 
-### Sources and further reading
+> linux
+> windows
+
+##<a name="technologies"></a> Technology choices
+
+### Alpine Linux
+
+There are two reasons for Alpine Linux: It is very tiny, so a Raspberry Pi will have no problems with it, ever. This is also what's making it fast, easy on resources and also energy efficent. The other reason is ```lbu```. This tool enables a rather simple installation, in which the microSD card can be used read-only, preventing it from breaking from too many write cycles in the long run.
+
+### Samba
+
+Samba makes it possible to share your files with every major OS. While I would prefer 9p from a technological standpoint, it would be too incompatible.
+
+### NTFS
+
+If you ever need to take the harddrive with you, to let a Windows-using friend get a copy of a movie, this is your only choice, because FAT32 is restricted to 4GiB per file.
+
+### Raspberry Pi
+
+It is cheap and easily availible.
+
+## Sources and further reading
 
 - [Alpine Linux](https://alpinelinux.org/)
-- [Wiki Article](https://wiki.alpinelinux.org/wiki/Raspberry_Pi) about how to install Alpine Linux on a Raspberry Pi
+- [Alpine Wiki Article](https://wiki.alpinelinux.org/wiki/Raspberry_Pi) about how to install Alpine Linux on a Raspberry Pi
+- [Alpine Wiki Article](https://wiki.alpinelinux.org/wiki/Setting_up_a_samba-server) about how to install a Samba Server
+- [Arch Wiki Article](https://wiki.archlinux.org/index.php/Samba) about Samba
