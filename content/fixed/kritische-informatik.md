@@ -25,9 +25,10 @@
 - [Sofia - Das Silicon Valley für Frauen](https://www.dw.com/de/sofia-das-silicon-valley-der-frauen/a-43806301) von Rayna Breuer [DE][VID]
 - [When Women stopped Coding](https://www.npr.org/sections/money/2016/07/22/487069271/episode-576-when-women-stopped-coding?t=1543426536331) by Planet Money [EN][AUD]
 
-### Freie Software | Free Software
+### Freie Software und Arbeit | Free Software and Labor
 - [Free Software and the Revolt against Transactionality](https://medium.com/@enkiv2/free-software-and-the-revolt-against-transactionality-3a44a1b7f96d) by John Ohno [EN]
 - [Die Gewerkschaften müssen kooperieren](https://jungle.world/artikel/2019/38/die-gewerkschaften-muessen-kooperieren) Interview mit Ayad Al-Ani [DE]
+- [We are complicit in our employer's deeds](https://drewdevault.com/2020/05/05/We-are-complicit-in-our-employers-deeds.html) by Drew DeVault [EN]
 
 ### Informatik im Realsozialismus | Computer Science in actually existing Socialism
 - [Made in GDR](https://jungle.world/artikel/2019/04/made-gdr) von Enno Park [DE]
@@ -50,9 +51,6 @@
 - [Maschinenwinter](https://www.suhrkamp.de/buecher/maschinenwinter-dietmar_dath_26008.html) von Dietmar Dath [DE][$$$]
 - [Arbeit und Muße](https://www.marxists.org/deutsch/archiv/pannekoek/1955/05/arbeit.htm) von Anton Pannekoek [DE]
 - [Gesellschaft nach dem Geld: Den Commonismus simulieren](https://www.youtube.com/watch?v=2cDStkuFEfc) vom Projekt "Die Gesellschaft nach dem Geld" [DE][VID]
-
-### Arbeit | Labor
-- [We are complicit in our employer's deeds](https://drewdevault.com/2020/05/05/We-are-complicit-in-our-employers-deeds.html) by Drew DeVault [EN]
 
 ### Gaming
 - [How Video Games Are Funding Gun Manufacturers](https://www.youtube.com/watch?v=NbQ5SOeO2EQ) by HeavyEyed [EN][VID]
