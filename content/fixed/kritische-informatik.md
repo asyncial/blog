@@ -3,7 +3,7 @@
 	title = "Kritische Informatik | Critical Computer Science"
 	date = "2019-06-03T16:32:00+02:00"
 	draft = false
-++
++++
 
 *[Einführung | Introduction](../blog/kritische-informatik-critical-computer-science)*
 ## Fehlende Innovationskraft und Hypekultur | Hype and the Lack of Innovations
