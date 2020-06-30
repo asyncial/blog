@@ -5,7 +5,7 @@ draft = false
 
 +++
 
-*[english version below](#english)*
+*[english version below](#english-version)*
 
 Informatik scheint ständig im Wandel. Sieht man genauer hin, ist viel unhinterfragbar in Stein gemeißelt. Von ganz technischen Dingen, wie zum Beispiel die Fixierung auf x86 und ARM als Befehlssatzarchitekturen für so lange Zeit (inzwischen stellt RISC-V hier doch manches in Frage), über UNIX/POSIX/Linux als extrem dominantes Betriebssystem (so dominant, dass inzwischen selbst Windows eine Kompatibilitätsschicht implementiert), bis hin zu Art der Verwendung von Computern, etwa die Fixierung auf Text und die Trennung der Nutzer in Programmierer und Konsumenten.
 
