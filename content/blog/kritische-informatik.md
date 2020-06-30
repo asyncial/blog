@@ -15,7 +15,7 @@ Besonders das [Projekt CyberSyn](https://de.wikipedia.org/wiki/Cybersyn) hat ein
 
 Trotzdem sind Inhalte zum Thema eher selten und noch dazu weit verstreut. Deswegen fing ich an interessante Texte, Vorträge und Bücher zu speichern und zu sortieren. Nun möchte ich diese [Linkliste](../../kritische-informatik) auch anderen Interessierten zu Verfügung stellen. Die Liste ist nach Themen sortiert und enthält sowohl englische als auch deutsche Inhalte. Solltest Du eine Lese-, Hör- oder Sehempfehlung haben, die Du teilen willst, [schlag sie gern vor](https://github.com/asyncial/asyncial.github.io/issues/new), ich werde sie mir ansehen und, wenn sie mir gefällt, auf die Liste setzen.
 
-## <a name="english">English version</a>
+## English version
 
 Computer science seems to be always changing. But if you look closer, a lot is fixed, unchangable, unquestioned. This ranges from technical stuff, like the fixation on x86 and ARM as instruction set architectures, over UNIX/POSIX/Linux as highly dominant operating system (so dominant in fact, that even Windows now offers a compatibility layer), to the way we use computers, fixated on text and users split up in consumers and programmers.
 
