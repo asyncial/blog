@@ -42,8 +42,6 @@
 - [The Planning Machine](https://www.newyorker.com/magazine/2014/10/13/planning-machine) by Evgeny Morozov [EN]
 - [Designing Freedom, Regulating a Nation: Socialist Cybernetics in Allende's Chile](https://pdfs.semanticscholar.org/0ea9/3b1bd22f6742e931d1c5ac426f403c915031.pdf) by Eden Medina [EN][PDF]
 - [Die Kommunistenmaschine](https://www.youtube.com/watch?v=wKCBpZ2CONM) von Sascha Reh [DE][VID]
-
-### Moderne Planwirtschaft | Modern planned Econmy
 - [Wo bleibt das "CyberSyn" in Venezuela?](https://heise.de/-4300307) von Peter Nowak [DE]
 
 ### Technik und Sozialismus | Technology and Socialism
