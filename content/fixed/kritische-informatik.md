@@ -1,8 +1,8 @@
 
 +++
-itle = "Kritische Informatik | Critical Computer Science"
-ate = "2019-06-03T16:32:00+02:00"
-raft = false
+	title = "Kritische Informatik | Critical Computer Science"
+	date = "2019-06-03T16:32:00+02:00"
+	draft = false
 ++
 
 *[Einführung | Introduction](../blog/kritische-informatik-critical-computer-science)*
