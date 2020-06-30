@@ -30,7 +30,7 @@
 - [Die Gewerkschaften müssen kooperieren](https://jungle.world/artikel/2019/38/die-gewerkschaften-muessen-kooperieren) Interview mit Ayad Al-Ani [DE]
 - [We are complicit in our employer's deeds](https://drewdevault.com/2020/05/05/We-are-complicit-in-our-employers-deeds.html) by Drew DeVault [EN]
 
-### Informatik im Realsozialismus | Computer Science in actually existing Socialism
+### Informatik im Nominalsozialismus | Computer Science in nominally existing Socialism
 - [Made in GDR](https://jungle.world/artikel/2019/04/made-gdr) von Enno Park [DE]
 - [Kybernetik in der DDR](https://www.mz-web.de/kultur/kybernetik-in-der-ddr-ein-zauberschwert-aus-luft-8411814) von Steffen Könau [DE][$$$]
 - [Oral History of Boris Babayan (excerpt)](https://www.youtube.com/watch?v=C9AcktRz468) by Alex Bochannek [EN][VID]
