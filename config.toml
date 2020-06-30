@@ -24,10 +24,10 @@ identifier             = "blog"
 url                    = "/blog/"
 
 [[menu.main]]
-name                   = "Kritische Informatik | Critical Computer Science"
+name                   = "Kritische Informatik"
 weight                 = -110
-identifier             = "kritische-informatik"
-url                    = "/kritische-informatik/"
+identifier             = "kritische-informatik-critical-computer-science"
+url                    = "/kritische-informatik-critical-computer-science/"
 
 [[menu.main]]
 name 		       = "Links"
