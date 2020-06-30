@@ -24,20 +24,14 @@ identifier             = "blog"
 url                    = "/blog/"
 
 [[menu.main]]
-name                   = "About"
+name                   = "Kritische Informatik | Critical Computer Science"
 weight                 = -110
-identifier             = "about"
-url                    = "/about/"
-
-[[menu.main]]
-name                   = "Learning"
-weight                 = -100
-identifier             = "learning"
-url                    = "/learning/"
+identifier             = "kritische-informatik"
+url                    = "/kritische-informatik/"
 
 [[menu.main]]
 name 		       = "Links"
-weight 		       = -90
+weight 		       = -100
 identifier	       = "links"
 url		       = "/links/"
 
@@ -65,7 +59,7 @@ lang                   = "en"
 #linkedin               = "//linkedin.com/in/you"
 noshowreadtime         = false                         # if true, don't show "<x> minutes read" in posts
 selfintro              = ""                            # appears in the site header when set to a non-empty string
-twitter                = "//twitter.com/asyncial"
+#twitter                = "//twitter.com/asyncial"
 # highlightjslanguages = ["go"]                        # additional languages not included in the "common" set
 
 # avatar                 = "img/profile.png" # path to image in static dir e.g img/avatar.png (do not use in the same time as gravatar)
