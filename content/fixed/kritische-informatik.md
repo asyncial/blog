@@ -32,7 +32,7 @@
 
 ### Informatik im Realsozialismus | Computer Science in actually existing Socialism
 - [Made in GDR](https://jungle.world/artikel/2019/04/made-gdr) von Enno Park [DE]
-- [Kybernetik in der DDR](https://www.mz-web.de/kultur/kybernetik-in-der-ddr-ein-zauberschwert-aus-luft-8411814) von Steffen Könau [DE]
+- [Kybernetik in der DDR](https://www.mz-web.de/kultur/kybernetik-in-der-ddr-ein-zauberschwert-aus-luft-8411814) von Steffen Könau [DE][$$$]
 - [Oral History of Boris Babayan (excerpt)](https://www.youtube.com/watch?v=C9AcktRz468) by Alex Bochannek [EN][VID]
 - [The Computer Genius the Communists Couldn’t Stand](https://culture.pl/en/article/jacek-karpinski-the-computer-genius-the-communists-couldnt-stand) by Marek Kępa [EN]
 - [Computer in der DDR](https://heise.de/-4559007) von René Meyer [DE]
