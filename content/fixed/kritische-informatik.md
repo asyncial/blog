@@ -4,7 +4,7 @@ date = "2019-06-03T16:32:00+02:00"
 draft = false
 +++
 
-*[Einführung | Introduction](blog/kritische-informatik)*
+*[Einführung | Introduction](../blog/kritische-informatik-critical-computer-science)*
 
 ## Fehlende Innovationskraft und Hypekultur | Hype and the Lack of Innovations
 	- [The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4) by Bret Victor [EN][VID]
