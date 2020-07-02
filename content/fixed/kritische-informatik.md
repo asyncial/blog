@@ -36,6 +36,7 @@
 - [Oral History of Boris Babayan (excerpt)](https://www.youtube.com/watch?v=C9AcktRz468) by Alex Bochannek [EN][VID]
 - [The Computer Genius the Communists Couldn’t Stand](https://culture.pl/en/article/jacek-karpinski-the-computer-genius-the-communists-couldnt-stand) by Marek Kępa [EN]
 - [Computer in der DDR](https://heise.de/-4559007) von René Meyer [DE]
+- [Gaming beyond the Iron Curtain: East Germany](https://www.youtube.com/watch?v=b7xndvitLa8) by Super Bunnyhop [EN][VID]
 
 ### CyberSyn
 - [Die Stunde der Kommunistenmaschine](http://www.spiegel.de/einestages/projekt-cybersyn-stafford-beers-internet-vorlaeufer-in-chile-a-1035559.html) von Sascha Reh [DE]
@@ -54,6 +55,9 @@
 - [How Video Games Are Funding Gun Manufacturers](https://www.youtube.com/watch?v=NbQ5SOeO2EQ) by HeavyEyed [EN][VID]
 - [Does Call of Duty Believe in Anything?](https://www.youtube.com/watch?v=FtCV421T52s) by Jacob Geller [EN][VID]
 - [Die GOTHIC Atmosphäre erklärt! | Gothic (2001) Analyse (materialistisch, Anm. d. Autors)](https://www.youtube.com/watch?v=YnlUSwOmw_Q) von Gescheit Gespielt [DE][VID]
+- [How the Video Game Industry Treats its Tester](https://www.youtube.com/watch?v=G9ZdU1RQjmc) by Super Bunnyhop [EN][VID]
+- [Unionization, Steady Careerers, and Generations of Games Culture](https://www.youtube.com/watch?v=2TSB5YQqDiY) by Super Bunnyhop [EN][VID]
+- [How American Game Companies Avoid Paying Income Tax](https://www.youtube.com/watch?v=SFKnv1YzI3k) by Super Bunnyhop [EN][VID]
 
 ### Soziale Medien | Social Media
 - [Die Angst vor Echokammern ist übertrieben. Ein Rückblick auf den Wahlkampf 2017 im Netz.](https://netzpolitik.org/2019/die-angst-vor-echokammern-ist-uebertrieben-ein-rueckblick-auf-den-wahlkampf-2017-im-netz/#spendenleiste) von Unbekannt [DE]
