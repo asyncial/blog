@@ -32,8 +32,8 @@ url                    = "/kritische-informatik-critical-computer-science/"
 [[menu.main]]
 name                   = "Plan 9 -> Linux"
 weight                 = -110
-identifier             = "plan9-linux"
-url                    = "/plan9-linux/"
+identifier             = "plan-9-linux"
+url                    = "/plan-9-linux/"
 
 [[menu.main]]
 name 		       = "Links"
