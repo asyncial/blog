@@ -19,15 +19,21 @@ blog  = "blog/:slug/"
 
 [[menu.main]]
 name                   = "Blog"
-weight                 = -120
+weight                 = -130
 identifier             = "blog"
 url                    = "/blog/"
 
 [[menu.main]]
 name                   = "Kritische Informatik"
-weight                 = -110
+weight                 = -120
 identifier             = "kritische-informatik-critical-computer-science"
 url                    = "/kritische-informatik-critical-computer-science/"
+
+[[menu.main]]
+name                   = "Plan 9 -> Linux"
+weight                 = -110
+identifier             = "plan9-linux"
+url                    = "/plan9-linux/"
 
 [[menu.main]]
 name 		       = "Links"
