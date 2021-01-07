@@ -17,6 +17,7 @@ This category gets the straight-up ports of Plan9 programs to Linux/Unix out of 
 - [mk](https://9fans.github.io/plan9port/unix/): A port of just ```mk``` and the libraries needed for it.
 - [sam](https://github.com/deadpixi/sam): An updated port of the ```sam``` text editor.
 - [acme2k](https://github.com/karahobny/acme2k): An updated port of the ```acme``` programming environment.
+- [rc](https://github.com/rakitzis/rc): A independent port of the ```rc``` command line shell.
 
 ## Inspired programs
 
@@ -55,6 +56,9 @@ This category lists all the software I could find, that is more or less explicit
 
 - [nash](https://github.com/madlambda/nash): Shell inspired by ```rc```.
 - [rwsh](https://github.com/tudurom/rwsh): Shell based around structural regular expressions.
+- [es](https://wryun.github.io/es-shell/): Extensible shell, derived from ```rc```.
+- [desh](https://github.com/injinj/desh): Extended version of ```es```.
+- [XS](https://github.com/TieDyedDevil/XS): Extended version of ```es```.
 
 ### shell utils
 
