@@ -65,7 +65,7 @@ This category lists all the software I could find, that is more or less explicit
 - [usam](https://github.com/tudurom/usam): ```sam``` commands as unix commands.
 - [edit](https://github.com/as/edit): Stand-alone implementation of the ```acme``` command language.
 - [goblin](https://github.com/mortdeus/goblin): Go reimplementation of the Plan 9 userland.
-- [Torgo](https://github.com/as/Torgo): Command line toolkit inspired by Plan 9.#
+- [Torgo](https://github.com/as/Torgo): Command line toolkit inspired by Plan 9.
 
 ### make
 
@@ -78,7 +78,7 @@ This category lists all the software I could find, that is more or less explicit
 - [plumber](https://github.com/halfwit/plumber): Plan 9 inspired script to open programs based on a string.
 - [xplumb](https://gitlab.com/fdedden/xplumb): Integrating the plumber with X11.
 
-### (9p)[https://en.wikipedia.org/wiki/9P_(protocol)] related
+### [9p](https://en.wikipedia.org/wiki/9P_(protocol)) related
 
 - [u9fs](bitbucket.org/plan9-from-bell-labs/u9fs): 9p server.
 - [v9fs](http://v9fs.sourceforge.net): File system driver for the Linux kernel.
