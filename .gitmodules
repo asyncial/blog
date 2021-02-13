@@ -1,7 +1,6 @@
 [submodule "public"]
 	path = public
 	url = git@github-asyncial:asyncial/asyncial.github.io.git
-	branch = master
 [submodule "themes/cocoa"]
 	path = themes/cocoa
 	url = https://github.com/nishanths/cocoa-hugo-theme
