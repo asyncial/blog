@@ -34,6 +34,7 @@ This category lists all the software I could find, that is more or less explicit
 - [Mux](https://github.com/as/Mux): Plan9-like window environment for your shell.
 - [pRio](https://github.com/letoram/prio): ```Rio```-like window manager for the [Arcan](https://github.com/letoram/arcan) desktop engine.
 - [wio](https://wio-project.org): ```Rio```-like wayland compositor.
+- [wmii](https://github.com/0intro/wmii): X11 window manager with a 9p interface and ```acme```-like layout.
 
 ### text editing
 
