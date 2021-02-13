@@ -35,12 +35,6 @@ weight                 = -110
 identifier             = "plan-9-linux"
 url                    = "/plan-9-linux/"
 
-[[menu.main]]
-name 		       = "Links"
-weight 		       = -100
-identifier	       = "links"
-url		       = "/links/"
-
 #[[menu.main]]
 #name                   = "Code"
 #weight                 = -100
