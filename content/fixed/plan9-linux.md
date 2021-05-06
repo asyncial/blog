@@ -60,6 +60,7 @@ This category lists all the software I could find, that is more or less explicit
 - [es](https://wryun.github.io/es-shell/): Extensible shell, derived from ```rc```.
 - [desh](https://github.com/injinj/desh): Extended version of ```es```.
 - [XS](https://github.com/TieDyedDevil/XS): Extended version of ```es```.
+- [nxes](https://github.com/newnix/nxes): Extended version of ```es```.
 
 ### shell utils
 
@@ -86,6 +87,7 @@ This category lists all the software I could find, that is more or less explicit
 - [c9](https://git.sr.ht/~ft/c9/): Low level 9p client and server.
 - [9pfuse](https://github.com/aperezdc/9pfuse): FUSE-based 9p client.
 - [9mount](http://sqweek.net/code/9mount/): 9p mounting tools.
+- [9pfs](https://github.com/bunny351/9pfs): FUSE-based 9p client.
 
 [See more.](http://9p.cat-v.org/implementations)
 
