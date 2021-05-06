@@ -82,7 +82,7 @@ This category lists all the software I could find, that is more or less explicit
 
 ### [9p](https://en.wikipedia.org/wiki/9P_(protocol)) related
 
-- [u9fs](bitbucket.org/plan9-from-bell-labs/u9fs): 9p server.
+- [u9fs](https://bitbucket.org/plan9-from-bell-labs/u9fs): 9p server.
 - [v9fs](http://v9fs.sourceforge.net): File system driver for the Linux kernel.
 - [c9](https://git.sr.ht/~ft/c9/): Low level 9p client and server.
 - [9pfuse](https://github.com/aperezdc/9pfuse): FUSE-based 9p client.
